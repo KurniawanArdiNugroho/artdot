@@ -9,7 +9,7 @@ const LINKS = {
   upwork: "",
   instagram: "https://www.instagram.com/artdot.design?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==",
   behance: "https://www.behance.net/kurniawnugroho",
-  linkedin: "https://www.linkedin.com/in/kurniawan-ardi-nugroho-1035b342b/"
+  linkedin: "https://www.linkedin.com/in/kurniawan-ardi-nugroho-1035b342b/?isSelfProfile=true"
 };
 
 document.querySelectorAll("[data-link]").forEach((a) => {
