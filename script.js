@@ -3,13 +3,13 @@
    WhatsApp: "https://wa.me/62XXXXXXXXXX"  (country code + number, no + or spaces)
    Leave a link as "" and its button stays inactive until you fill it in. */
 const LINKS = {
-  email: "",
-  whatsapp: "",
-  "99designs": "",
+  email: "kurniawanardi303@gmail.com",
+  whatsapp: "https://wa.me/6285291133235",
+  "99designs": "https://99designs.com/profiles/artdotcreative",
   upwork: "",
-  instagram: "",
-  behance: "",
-  linkedin: ""
+  instagram: "https://www.instagram.com/artdot.design?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==",
+  behance: "https://www.behance.net/kurniawnugroho",
+  linkedin: "linkedin.com/in/kurniawan-ardi-nugroho-1035b342b"
 };
 
 document.querySelectorAll("[data-link]").forEach((a) => {
