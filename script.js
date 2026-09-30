@@ -3,7 +3,7 @@
    WhatsApp: "https://wa.me/62XXXXXXXXXX"  (country code + number, no + or spaces)
    Leave a link as "" and its button stays inactive until you fill it in. */
 const LINKS = {
-  email: "kurniawanardi303@gmail.com",
+  email: "mailto:kurniawanardi303@gmail.com",
   whatsapp: "https://wa.me/6285291133235",
   "99designs": "https://99designs.com/profiles/artdotcreative",
   upwork: "",
